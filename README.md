@@ -33,3 +33,13 @@ data
 │
 └── vocab  # vocab files provided by SCAN (only used when the text backbone is BiGRU)
 ```
+Please use the following bib entry to cite this paper if you are using any resources from the repo.
+```
+@article{zhang2024user,
+  title={USER: Unified semantic enhancement with momentum contrast for image-text retrieval},
+  author={Zhang, Yan and Ji, Zhong and Wang, Di and Pang, Yanwei and Li, Xuelong},
+  journal={IEEE Transactions on Image Processing},
+  year={2024},
+  publisher={IEEE}
+}
+```
