@@ -35,7 +35,7 @@ data
 ```
 
 ## Training
-* Train MSCOCO models:
+Train MSCOCO and Flickr30K from scratch:
 Modify the corresponding arguments and run `train_region_coco.sh` or `train_region_f30k.sh`
 
 ## Evaluation
