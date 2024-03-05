@@ -33,6 +33,14 @@ data
 │
 └── vocab  # vocab files provided by SCAN (only used when the text backbone is BiGRU)
 ```
+
+## Training
+* Train MSCOCO models:
+Modify the corresponding arguments and run `train_region_coco.sh` or `train_region_f30k.sh`
+
+## Evaluation
+Modify the corresponding arguments in `eval.py' and run `python eval.py`.
+
 Please use the following bib entry to cite this paper if you are using any resources from the repo.
 ```
 @article{zhang2024user,
