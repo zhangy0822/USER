@@ -1,6 +1,6 @@
 # USER: Unified Semantic Enhancement with Momentum Contrast for Image-Text Retrieval
 
-Our source code of USER accepted by TIP will be released as soon as possible. It is built on top of the [vse_inf](https://github.com/woodfrog/vse_infty) in PyTorch. 
+Our source code of USER is built on top of the [vse_inf](https://github.com/woodfrog/vse_infty) in PyTorch. 
 ## Data
 We organize all data used in the experiments in the same manner as [vse_inf](https://github.com/woodfrog/vse_infty):
 
